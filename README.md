@@ -1,4 +1,4 @@
-# Survival-Prediction-Biomarker-Discovery-in-EHR
+# Survival Prediction & Biomarker Discovery in Patient EHR
 An integrative algorithm for survival prediction via biomarker discovery in patients' structured clinical EHR narratives.
 
 In-hospital mortality is devastating for patients; yet, such events can be prevented through early diagnosis. Due to the poor characterization of in-hospital mortality predictors, I developed an integrative algorithmic approach that transforms structured clinical narratives from patient EHR into clinically-approved biomarkers for rapid survival prediction. The model received an AUROC of 0.87, which significantly outperformed all existing clinical techniques.
